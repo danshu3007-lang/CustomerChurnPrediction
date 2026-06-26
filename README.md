@@ -107,8 +107,8 @@ CustomerChurnPrediction/
 ## 👤 Author
 
 **Deepanshu** — [@danshu3007-lang](https://github.com/danshu3007-lang)  
-B.Tech Student | Chandigarh University  
-[LinkedIn](https://linkedin.com/in/deepanshu-da/)
+BCA Student | Chandigarh University  
+
 
 ---
 
